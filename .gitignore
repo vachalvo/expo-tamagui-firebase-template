@@ -95,3 +95,4 @@ fabric.properties
 
 firebase.config.js
 package-lock.json
+firebase.config.ts
