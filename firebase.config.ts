@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   // Your firebase config - add to firebase project new WEB project and copy config here.
-  // IMPORTANT - add this to .gitignore fileasdf
+  // IMPORTANT - add this to .gitignore fileasdfasdf
 };
 
 const app = initializeApp(firebaseConfig);
